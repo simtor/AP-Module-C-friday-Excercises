@@ -1,5 +1,5 @@
 # AP-Module-C-friday-Excercises
-Classes and Objects\
+Classes and Objects
 
 
 Primers Portfolio Challenges:\
